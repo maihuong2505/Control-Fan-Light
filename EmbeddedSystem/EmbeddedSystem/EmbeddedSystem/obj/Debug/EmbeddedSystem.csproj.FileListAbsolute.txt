@@ -1,0 +1,30 @@
+G:\VISUAL STUDIO 2019\EmbeddedSystem\EmbeddedSystem\bin\Debug\EmbeddedSystem.exe.config
+G:\VISUAL STUDIO 2019\EmbeddedSystem\EmbeddedSystem\bin\Debug\EmbeddedSystem.exe
+G:\VISUAL STUDIO 2019\EmbeddedSystem\EmbeddedSystem\bin\Debug\EmbeddedSystem.pdb
+G:\VISUAL STUDIO 2019\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.csprojAssemblyReference.cache
+G:\VISUAL STUDIO 2019\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.Form1.resources
+G:\VISUAL STUDIO 2019\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.Properties.Resources.resources
+G:\VISUAL STUDIO 2019\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.csproj.GenerateResource.cache
+G:\VISUAL STUDIO 2019\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.csproj.CoreCompileInputs.cache
+G:\VISUAL STUDIO 2019\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.exe
+G:\VISUAL STUDIO 2019\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.pdb
+D:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.Form1.resources
+D:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.Properties.Resources.resources
+D:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.csproj.GenerateResource.cache
+D:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.csproj.CoreCompileInputs.cache
+D:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.exe
+D:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.pdb
+D:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\bin\Debug\EmbeddedSystem.exe.config
+D:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\bin\Debug\EmbeddedSystem.exe
+D:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\bin\Debug\EmbeddedSystem.pdb
+F:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\bin\Debug\EmbeddedSystem.exe.config
+F:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\bin\Debug\EmbeddedSystem.exe
+F:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\bin\Debug\EmbeddedSystem.pdb
+F:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.csprojAssemblyReference.cache
+F:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.Form1.resources
+F:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.Properties.Resources.resources
+F:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.csproj.GenerateResource.cache
+F:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.csproj.CoreCompileInputs.cache
+F:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.exe
+F:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.pdb
+D:\HG\Studying\Subjects\EmbeddedSys\Đồ án\EmbeddedSystem\EmbeddedSystem\EmbeddedSystem\obj\Debug\EmbeddedSystem.csprojAssemblyReference.cache
